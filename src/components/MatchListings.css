@@ -1,0 +1,11 @@
+.xparent {
+  display: flex;
+}
+
+.xchild1 {
+  margin: 40px;
+}
+
+.xchild2 {
+  margin: 40px;
+}
